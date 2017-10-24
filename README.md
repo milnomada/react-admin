@@ -1,5 +1,7 @@
-ReactJS version of Director Responsive Admin Template Free
-==========
+ReactJS Admin version 
+=====================
+
+Originally extracted from [this project](https://mackentoch.github.io/react-director-admin-template)
 
 ## Preview
 ![preview](https://raw.githubusercontent.com/MacKentoch/react-director-admin-template/master/preview/preview.png)
@@ -73,7 +75,7 @@ npm run prod-server
 
 The MIT License (MIT)
 
-## Special thanks to:
+### Special thanks
 
 Copyright (c) 2017 Erwan DATIN
 
